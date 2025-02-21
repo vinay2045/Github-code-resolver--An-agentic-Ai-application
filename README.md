@@ -6,7 +6,7 @@
 
 An AI-powered solution for automated code analysis and maintenance in GitHub repositories.
 
-![Workflow Diagram](https://via.placeholder.com/800x400.png?text=AI+Agent+Workflow) <!-- Add actual diagram -->
+<!-- Add actual diagram -->
 
 ## Table of Contents
 - [Overview](#overview)
